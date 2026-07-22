@@ -1,0 +1,13 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gen-lang-client-0998060073",
+          "appId": "1:189186215215:android:lingochat",
+          "messagingSenderId": "189186215215"
+        }
+      }
+    }
+  }
+}

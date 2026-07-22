@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "164964696077",
+    "project_id": "gen-lang-client-0998060073",
+    "storage_bucket": "gen-lang-client-0998060073.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164964696077:android:com.lingochat.app",
+        "android_client_info": {
+          "package_name": "com.lingochat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164964696077-9u3es2q70d02b13r78jggqh5mj04sel8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcXVyzDFuNRFjhrJERJ69-bVIbaF_d7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
